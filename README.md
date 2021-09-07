@@ -2,7 +2,7 @@
     <a href="http://di-engine.github.io"><img width="500px" height="auto" src="https://github.com/opendilab/DI-engine-docs/blob/main/source/images/di_engine_logo.svg"></a>
 </div>
 
----
+---   
 
 [![PyPI](https://img.shields.io/pypi/v/DI-engine)](https://pypi.org/project/DI-engine/)
 ![Conda](https://anaconda.org/opendilab/di-engine/badges/version.svg)
